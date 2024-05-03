@@ -21,7 +21,7 @@ A summary report of a student-conducted vulnerability assessment to improve cybe
 * **Findings**: Presents the findings of the vulnerability assessment, including identified vulnerabilities and their severity levels. 
 * **Recommendations**: Offers actionable recommendations for mitigating identified vulnerabilities and enhancing security posture.
 
-[Presentation on Vulnerability assessment](https://www.canva.com/design/DAGCIP-Wr_A/pbxTx1mouHeT9FqrT4LBqA/view?utm_content=DAGCIP-Wr_A&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Presentation on Vulnerability assessment](https://slidesgo.com/editor?template=9bf4d7dd-44e9-426b-9ed0-8289d8469908)
 
 ## Usage
 
